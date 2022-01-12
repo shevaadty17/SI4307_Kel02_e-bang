@@ -85,9 +85,13 @@
             </small>
 
   <section>
-    <p style="text-align: center;"><b>Buka pada pukul 13:00WIB-21:00WIB.</b></p>
-    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 10:00AM – 11:00PM.</b></p>
-    <p style="text-align: center;"><b>For More Information : +6282134759227 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>E-Bang (Electronic Bangunan) adalah website marketplace khusus barang bangunan untuk memudahkan customer berbelanja dan memudahkan toko bangunan untuk memasarkan produk.</b></p>
+    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
+    <p style="text-align: center;"><b>For More Information :</b></p>
+    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)
+    <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)
+
+    </b></p>
     <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
     <br>
     <div class="container">
@@ -108,7 +112,7 @@
                     <div class="card-body">
                             <img class="card-img-top" src="https://superyou.co.id/blog/wp-content/uploads/2021/05/cek-resi-jne.jpg" width="350px" height="300px">
                             <h5 class="card-title"><b>Pelacakan barang</b></h5>
-                        <p class="card-text" align="justify">Layanan ini.</p>
+                        <p class="card-text" align="justify">Layanan ini berguna bagi customer untuk melacak barang yang telah dipesan. Layanan ini hanya tersedia secara offline, customer memberikan nomor resi kepada karyawan ekspedisi masing-masing, nomor resi ini berfungsi sebagai nomor unik yang bisa digunakan untuk melacak proses pengiriman. Selain melacak posisi barang terkini, nomor resi juga akan memberikan estimasi waktu barang akan sampai di tempat tujuan.</p>
                     </div>
                 </div>
             </div>
@@ -118,8 +122,7 @@
                     <div class="card-body">
                         <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6P-_J42zcH_niGTaNXgZSkganACVEO6Iw&usqp=CAU" width="350px" height="300px">
                         <h5 class="card-title"><b>Customer Service</b></h5>
-                        <p class="card-text" align="justify">Layanan ini.</p>
-                        <p class="card-text" align="justify"><b>Note: Layanan hanya berlaku untuk pemesanan secara langsung di tempat. Tidak bersifat online.</b></p>
+                        <p class="card-text" align="justify">Layanan yang diberikan oleh perusahaan yang mempunyai tugas untuk sarana konsultasi, pusat informasi dan pemecahan masalah untuk pelanggan atau klien. Bertujuan supaya memberikan kenyamanan bagi pelanggan, sehingga mampu menciptakan pengalaman bertransaksi yang lebih baik.</p>
                     </div>
                 </div>
             </div>
@@ -134,16 +137,20 @@
             <section>
               
   <h1 style="text-align: center;"><br><br>Berita terkini</h1>
-        <h5 class="mb-1"><a href="#"><a href="https://www.radardepok.com/2018/06/banyak-menu-baru-promo-untuk-acara-di-gulo-klopo/"><br>Banyak Menu Baru, Promo Untuk Acara di Gulo Klopo</a></h5>
-        <p>Resto Gulo Klopo hadir di Depok sekitar setahun lalu dan kini mengeluarkan beberapa menu baru. Mulai dari ayam bakar meleleh, gurame dabu-dabu, beef teriyaki dan masih banyak yang lainnya. Tak hanya menu, Gulo Klopo juga berikan promo menarik bagi konsumen yang mengadakan acara di resto akan ada free Snack misalnya Singkong Thailand.</p>
+        <h5 class="mb-1"><a href="#"><a href="https://ekbis.sindonews.com/read/625221/34/pasar-lantai-vinyl-dibanjiri-banyak-merek-produk-bersertifikat-juaranya-1639199541"><br>Pasar Lantai Vinyl Dibanjiri Banyak Merek, Produk Bersertifikat Juaranya.</a></h5>
+        <p>IsiBangunan.com sebagai suplier dan distributor resmi JT Vinyl menghadirkan beberapa varian produk berkualitas, yakni lantai vinyl plank, lantai vinyl roll, lantai SPC, lantai vinyl rumah sakit (anti bacterial), dan lantai vinyl stiker.</p>
       
-        <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo, When Eastern Meet Western</a></h5>
-        <p>Beberapa angkringan mengalami metamorfosis dengan membuat terobosan baru yakni disajikan ala kafe modern. Mengikuti trend anak muda yang suka hangout atau nongkrong di tempat asyik dengan konsep menarik. Melihat peluang tersebut, terciptalah angkringan dengan konsep menarik. Salah satunya Gulo Klopo.</p>
+        <h5 class="mb-1"><a href="#"><a href="https://www.kompas.com/wiken/read/2021/12/26/193700881/bata-merah-dan-bata-ringan-mana-yang-lebih-baik-dijadikan-bahan-bangunan-"><br>Bata Merah dan Bata Ringan, Mana yang Lebih Baik Dijadikan Bahan Bangunan?</a></h5>
+        <p>Batu bata merupakan material konstruksi yang sering digunakan sebagai bahan bangunan untuk membangun rumah. Karena itu, pemilihan jenis batu bata haruslah tepat agar rumah dapat berdiri kokoh. Terdapat banyak jenis batu bata, yang paling umum dan sering digunakan adalah batu bata merah yang terbuat dari tanah liat.</p>
 
-        <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo Hadirkan Tiga Konsep Kuliner Dalam Satu Tempat</a></h5>
-        <p>Suasana berbeda hadir di Gulo Klopo yang berada di Jalan Raya Sawangan no36 Kecamatan Pancoranmas. Terdapat tiga konsep dalam satu lokasi, Kafe, Restoran dan Angkringan.
-          Suasana angkringan dilengkapi dengan arena bermain anak. Lalu dibagian tengah, konsep resto sangat kental terasa. Suasana membuat pengunjung merasa seperti makan dirumah sendiri
-          dengan bangunan bernuansa Jawa. Lalu dibagian belakang pemandangan lengkap dengan panggung pertunjukkan musik. “Kami sengaja membuat konsep seperti ini sehingga pengunjung bisa memilih sesuai yang mereka suka,” Owner Kafe, Resto dan Angkringan Gulo Klopo, Moentarsih.</p>
+        <h5 class="mb-1"><a href="#"><a href="https://www.kompas.com/homey/read/2021/10/11/165600176/simak-panduan-dan-tips-memilih-semen-berkualitas"><br>Simak, Panduan dan Tips Memilih Semen Berkualitas</a></h5>
+        <p>Semen merupakan salah satu material penting yang digunakan untuk merekatkan batu, bata, batako, keramik, dan bahan bangunan lainnya. Agar bangunan yang dibuat bisa kokoh, pastikan untuk menggunakan semen yang berkualitas.</p>
+
+        <h5 class="mb-1"><a href="#"><a href="https://www.kompas.com/properti/read/2021/09/25/080000321/peran-material-bangunan-pada-era-arsitektur-digital-i-"><br>Peran Material Bangunan pada Era Arsitektur Digital (I)</a></h5>
+        <p>Desain arsitektur berkembang seiring dengan kemajuan teknologi yang semakin canggih. Software komputer sangat berperan dalam penyelesaian desain bangunan. Bentuk yang semakin dinamis dari hasil olah digital ini perlu diimbangi teknologi bahan bangunan yang adaptif terhadap tuntutan desain modern.</p>
+        
+        <h5 class="mb-1"><a href="#"><a href="https://www.kompas.com/properti/read/2021/09/13/190000821/cermati-harga-bahan-bangunan-terbaru"><br>Cermati Harga Bahan Bangunan Terbaru</a></h5>
+        <p>Sebelum membangun atau merenovasi rumah, Anda harus tahu harga bahan bangunan terbaru. Jangan sampai, biaya yang keluar terlampau besar dan tak sesuai dengan anggaran. Perencanaan yang matang dalam menentukan anggaran untuk membangun rumah sangat penting dilakukan. Penting diketahui harga bahan bangunan terbaru mulai dari pasir, cat, paralon maupun semen. Terlebih, jika Anda tak menggunakan jasa kontraktor atau mandor bangunan.</p>
     </div>
           </div>
           <div class="card-block">
