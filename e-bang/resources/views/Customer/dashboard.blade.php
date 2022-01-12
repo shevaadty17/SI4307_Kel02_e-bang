@@ -1,3 +1,5 @@
+@extends('layout')
+@section('content')
 <!DOCTYPE html>
 <html class="bootstrap-layout">
 
@@ -230,3 +232,4 @@
 </body>
 
 </html>
+@endsection
