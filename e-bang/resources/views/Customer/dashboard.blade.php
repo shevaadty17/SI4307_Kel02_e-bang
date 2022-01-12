@@ -117,7 +117,15 @@
                 </div>
             </div>
 
-            
+            <div class="col-md-4">
+                <div class="card text">
+                    <div class="card-body">
+                        <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6P-_J42zcH_niGTaNXgZSkganACVEO6Iw&usqp=CAU" width="350px" height="300px">
+                        <h5 class="card-title"><b>Customer Service</b></h5>
+                        <p class="card-text" align="justify">Layanan yang diberikan oleh perusahaan yang mempunyai tugas untuk sarana konsultasi, pusat informasi dan pemecahan masalah untuk pelanggan atau klien. Bertujuan supaya memberikan kenyamanan bagi pelanggan, sehingga mampu menciptakan pengalaman bertransaksi yang lebih baik.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
