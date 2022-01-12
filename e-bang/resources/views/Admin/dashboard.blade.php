@@ -89,7 +89,7 @@
     <p style="text-align: center;"><b>E-Bang (Electronic Bangunan) adalah website marketplace khusus barang bangunan untuk memudahkan customer berbelanja dan memudahkan toko bangunan untuk memasarkan produk.</b></p>
     <p style="text-align: center;"><b><br>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
     <p style="text-align: center;"><b>For More Information :</b></p>
-    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>+6285966320315 (Business Requirement)</b></p>
     <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)</b></p>
 
     <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
