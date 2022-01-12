@@ -1,5 +1,5 @@
 <li class="sidebar-menu-item">
-    <a class="sidebar-menu-button" href="/dashboard-admin">
+    <a class="sidebar-menu-button" href="/dashboard-customer">
       <i class="fa fa-home"></i> Dashboard
     </a>
 </li>

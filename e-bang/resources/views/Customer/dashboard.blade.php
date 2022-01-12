@@ -110,7 +110,7 @@
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
             </button>
-            <h5 class="modal-title">Edit Produk</h5>
+            <h5 class="modal-title">Edit Profile</h5>
         </div>
             <form action="/edit-profile" method="post">
                 <div class="modal-body">

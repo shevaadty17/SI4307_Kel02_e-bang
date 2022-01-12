@@ -59,7 +59,7 @@ class indexController extends Controller
         $saveCust = new Auth();
         $saveCust->nm_user = $request->nm;
         $saveCust->username = $request->username;
-        $saveCust->password = md5($request->pw);
+        $saveCust->password = md5($request->pw1);
         $saveCust->jk_user = $request->jk;
         $saveCust->role_user = '2';
         $saveCust->save();

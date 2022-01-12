@@ -80,25 +80,77 @@
 
         <!-- Card -->
         <div class="card">
-          <div class="p-absolute p-a-1">
             <small class="text-muted">
-              <strong>TOP PLAYER</strong>
+              <strong>Dashboard Admin</strong>
             </small>
+
+  <section>
+    <p style="text-align: center;"><b>Buka pada pukul 13:00WIB-21:00WIB.</b></p>
+    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 10:00AM – 11:00PM.</b></p>
+    <p style="text-align: center;"><b>For More Information : +6282134759227 (Business Requirement)</b></p>
+    <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
+    <br>
+    <div class="container">
+        <div class="title"></div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card text">
+                    <div class="card-body">
+                        <img class="card-img-top" src="https://indoforwarding.com/wp-content/uploads/2018/05/jasa-pengiriman-barang-sangat-dibutuhkan.jpeg" width="350px" height="300px">
+                        <h5 class="card-title"><b>Pengiriman barang</b></h5>
+                        <p class="card-text" align="justify">Layanan ini untuk mempermudah sistem pengiriman barang Customer. Selain itu layanan ini juga diberikan untuk membantu pengiriman belanja secara online, atau yang kerap disebut dengan jasa pengiriman barang online.</p>
+                    </div>
+                </div>
+            </div>
+  
+            <div class="col-md-4">
+                <div class="card text">
+                    <div class="card-body">
+                            <img class="card-img-top" src="https://superyou.co.id/blog/wp-content/uploads/2021/05/cek-resi-jne.jpg" width="350px" height="300px">
+                            <h5 class="card-title"><b>Pelacakan barang</b></h5>
+                        <p class="card-text" align="justify">Layanan ini.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card text">
+                    <div class="card-body">
+                        <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6P-_J42zcH_niGTaNXgZSkganACVEO6Iw&usqp=CAU" width="350px" height="300px">
+                        <h5 class="card-title"><b>Customer Service</b></h5>
+                        <p class="card-text" align="justify">Layanan ini.</p>
+                        <p class="card-text" align="justify"><b>Note: Layanan hanya berlaku untuk pemesanan secara langsung di tempat. Tidak bersifat online.</b></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
           </div>
         </div>
 
         <!-- Card -->
         <div class="card">
-          <div class="p-absolute p-a-1">
-            <small class="text-muted">
-              <strong>TOP TEAMS</strong>
-            </small>
+            <section>
+              
+  <h1 style="text-align: center;"><br><br>Berita terkini</h1>
+        <h5 class="mb-1"><a href="#"><a href="https://www.radardepok.com/2018/06/banyak-menu-baru-promo-untuk-acara-di-gulo-klopo/"><br>Banyak Menu Baru, Promo Untuk Acara di Gulo Klopo</a></h5>
+        <p>Resto Gulo Klopo hadir di Depok sekitar setahun lalu dan kini mengeluarkan beberapa menu baru. Mulai dari ayam bakar meleleh, gurame dabu-dabu, beef teriyaki dan masih banyak yang lainnya. Tak hanya menu, Gulo Klopo juga berikan promo menarik bagi konsumen yang mengadakan acara di resto akan ada free Snack misalnya Singkong Thailand.</p>
+      
+        <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo, When Eastern Meet Western</a></h5>
+        <p>Beberapa angkringan mengalami metamorfosis dengan membuat terobosan baru yakni disajikan ala kafe modern. Mengikuti trend anak muda yang suka hangout atau nongkrong di tempat asyik dengan konsep menarik. Melihat peluang tersebut, terciptalah angkringan dengan konsep menarik. Salah satunya Gulo Klopo.</p>
+
+        <h5 class="mb-1"><a href="#"><a href="https://www.depoknews.id/gulo-klopo-hadirkan-tiga-konsep-kuliner-dalam-satu-tempat/"><br>Gulo Klopo Hadirkan Tiga Konsep Kuliner Dalam Satu Tempat</a></h5>
+        <p>Suasana berbeda hadir di Gulo Klopo yang berada di Jalan Raya Sawangan no36 Kecamatan Pancoranmas. Terdapat tiga konsep dalam satu lokasi, Kafe, Restoran dan Angkringan.
+          Suasana angkringan dilengkapi dengan arena bermain anak. Lalu dibagian tengah, konsep resto sangat kental terasa. Suasana membuat pengunjung merasa seperti makan dirumah sendiri
+          dengan bangunan bernuansa Jawa. Lalu dibagian belakang pemandangan lengkap dengan panggung pertunjukkan musik. “Kami sengaja membuat konsep seperti ini sehingga pengunjung bisa memilih sesuai yang mereka suka,” Owner Kafe, Resto dan Angkringan Gulo Klopo, Moentarsih.</p>
+    </div>
           </div>
           <div class="card-block">
             <div id="donut2" style="height:200px"></div>
           </div>
         </div>
-
+        </section>
       </div>
       <!-- // END Card Group -->
     </div>
@@ -110,7 +162,7 @@
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
             </button>
-            <h5 class="modal-title">Edit Produk</h5>
+            <h5 class="modal-title">Edit Profile</h5>
         </div>
             <form action="/edit-profile" method="post">
                 <div class="modal-body">

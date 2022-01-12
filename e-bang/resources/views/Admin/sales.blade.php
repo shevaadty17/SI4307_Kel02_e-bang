@@ -94,7 +94,7 @@
                           <td>{{ $keys+1 }}</td>
                           <td><a href="javascript:void(0)" onclick="detailSales({{ $so->order_id }})" data-toggle="modal" data-target="#detail-sales">{{ $so->order_code }}</a></td>
                           <td>{{ date('d M Y', strtotime($so->order_date)) }}</td>
-                          <td>{{ $so->user->nm_user }}</td>
+                          <td>{{ $so->nm_user }}</td>
                           <td>{{ number_format($so->order_price, 2, ',', '.') }}</td>
                         </tr>
                     @endforeach
