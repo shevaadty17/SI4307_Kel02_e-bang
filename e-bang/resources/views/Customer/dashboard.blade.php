@@ -84,14 +84,14 @@
               <strong>Dashboard Customer</strong>
             </small>
 
-  <section>
+            <section>
+    <img class="card-img-top" style="text-align: center;" src="images/Logo E-Bang.png" align="left" width="350px" height="300px">
     <p style="text-align: center;"><b>E-Bang (Electronic Bangunan) adalah website marketplace khusus barang bangunan untuk memudahkan customer berbelanja dan memudahkan toko bangunan untuk memasarkan produk.</b></p>
-    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
+    <p style="text-align: center;"><b><br>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
     <p style="text-align: center;"><b>For More Information :</b></p>
-    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)
-    <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)
+    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)</b></p>
 
-    </b></p>
     <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
     <br>
     <div class="container">
@@ -159,7 +159,6 @@
         </div>
         </section>
       </div>
-      
       <!-- // END Card Group -->
     </div>
   </div>

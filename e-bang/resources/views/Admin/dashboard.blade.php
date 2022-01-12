@@ -85,13 +85,13 @@
             </small>
 
   <section>
+    <img class="card-img-top" style="text-align: center;" src="images/Logo E-Bang.png" align="left" width="350px" height="300px">
     <p style="text-align: center;"><b>E-Bang (Electronic Bangunan) adalah website marketplace khusus barang bangunan untuk memudahkan customer berbelanja dan memudahkan toko bangunan untuk memasarkan produk.</b></p>
-    <p style="text-align: center;"><b>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
+    <p style="text-align: center;"><b><br>Business Hours From Monday to Sunday 09:00AM – 11:00PM.</b></p>
     <p style="text-align: center;"><b>For More Information :</b></p>
-    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)
-    <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)
+    <p style="text-align: center;"><b>+6282134759227 (Business Requirement)</b></p>
+    <p style="text-align: center;"><b>ebang.official@gmail.com (Business Requirement)</b></p>
 
-    </b></p>
     <h1 style="text-align: center;"><br>Servis dan Layanan kami</h1>
     <br>
     <div class="container">
@@ -102,7 +102,7 @@
                     <div class="card-body">
                         <img class="card-img-top" src="https://indoforwarding.com/wp-content/uploads/2018/05/jasa-pengiriman-barang-sangat-dibutuhkan.jpeg" width="350px" height="300px">
                         <h5 class="card-title"><b>Pengiriman barang</b></h5>
-                        <p class="card-text" align="justify">Layanan ini untuk mempermudah sistem pengiriman barang Customer. Selain itu layanan ini juga diberikan untuk membantu pengiriman belanja secara online, atau yang kerap disebut dengan jasa pengiriman barang online.</p>
+                        <p class="card-text" align="justify">Layanan ini untuk mempermudah sistem dalam pengiriman barang Customer. Selain itu, layanan ini juga diberikan untuk membantu pengiriman belanja secara online, atau yang kerap disebut dengan jasa pengiriman barang online. Layanan ini sudah include dalam setiap proses order, sehingga customer mudah dalam berbelanja.</p>
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                     <div class="card-body">
                             <img class="card-img-top" src="https://superyou.co.id/blog/wp-content/uploads/2021/05/cek-resi-jne.jpg" width="350px" height="300px">
                             <h5 class="card-title"><b>Pelacakan barang</b></h5>
-                        <p class="card-text" align="justify">Layanan ini berguna bagi customer untuk melacak barang yang telah dipesan. Layanan ini hanya tersedia secara offline, customer memberikan nomor resi kepada karyawan ekspedisi masing-masing, nomor resi ini berfungsi sebagai nomor unik yang bisa digunakan untuk melacak proses pengiriman. Selain melacak posisi barang terkini, nomor resi juga akan memberikan estimasi waktu barang akan sampai di tempat tujuan.</p>
+                        <p class="card-text" align="justify">Layanan ini berguna bagi customer untuk melacak barang yang telah dipesan. Layanan ini hanya tersedia secara offline, customer memberikan nomor resi kepada karyawan ekspedisi masing-masing, nomor resi ini berfungsi sebagai nomor unik yang bisa digunakan untuk melacak proses pengiriman.</p>
                     </div>
                 </div>
             </div>
